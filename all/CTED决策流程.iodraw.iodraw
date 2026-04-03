@@ -63,15 +63,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qXtYjRTB9vDdkMCzaCU7-127" value="局部环境/战场" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="530" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="540" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qXtYjRTB9vDdkMCzaCU7-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.021;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="qXtYjRTB9vDdkMCzaCU7-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="qXtYjRTB9vDdkMCzaCU7-127">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="162.52" y="470" as="sourcePoint" />
             <mxPoint x="240.00000000000003" y="578.3999999999999" as="targetPoint" />
             <Array as="points">
               <mxPoint x="140" y="470" />
-              <mxPoint x="140" y="578" />
+              <mxPoint x="140" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -83,7 +83,7 @@
         <mxCell id="qXtYjRTB9vDdkMCzaCU7-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.389;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qXtYjRTB9vDdkMCzaCU7-118" target="qXtYjRTB9vDdkMCzaCU7-127">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="540" />
+              <mxPoint x="300" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
