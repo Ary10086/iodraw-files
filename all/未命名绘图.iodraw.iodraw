@@ -47,6 +47,11 @@
         <mxCell id="qXtYjRTB9vDdkMCzaCU7-126" value="......" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="410" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qXtYjRTB9vDdkMCzaCU7-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qXtYjRTB9vDdkMCzaCU7-127">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qXtYjRTB9vDdkMCzaCU7-127" value="局部环境/战场" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
         </mxCell>
@@ -87,6 +92,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qXtYjRTB9vDdkMCzaCU7-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.27;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qXtYjRTB9vDdkMCzaCU7-127" target="qXtYjRTB9vDdkMCzaCU7-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXtYjRTB9vDdkMCzaCU7-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.587;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qXtYjRTB9vDdkMCzaCU7-127" target="qXtYjRTB9vDdkMCzaCU7-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
