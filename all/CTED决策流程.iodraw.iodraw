@@ -52,8 +52,8 @@
             <Array as="points">
               <mxPoint x="300" y="590" />
               <mxPoint x="60" y="590" />
-              <mxPoint x="60" y="240" />
-              <mxPoint x="290" y="240" />
+              <mxPoint x="60" y="310" />
+              <mxPoint x="290" y="310" />
               <mxPoint x="290" y="320" />
             </Array>
           </mxGeometry>
@@ -66,13 +66,14 @@
         <mxCell id="qXtYjRTB9vDdkMCzaCU7-127" value="局部环境/战场" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="540" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qXtYjRTB9vDdkMCzaCU7-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="qXtYjRTB9vDdkMCzaCU7-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="qXtYjRTB9vDdkMCzaCU7-127">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="182.52" y="470" as="sourcePoint" />
             <mxPoint x="260" y="560" as="targetPoint" />
             <Array as="points">
               <mxPoint x="160" y="470" />
               <mxPoint x="160" y="560" />
+              <mxPoint x="240" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
