@@ -123,14 +123,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qXtYjRTB9vDdkMCzaCU7-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qXtYjRTB9vDdkMCzaCU7-127" target="qXtYjRTB9vDdkMCzaCU7-117">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qXtYjRTB9vDdkMCzaCU7-139" value="观测信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qXtYjRTB9vDdkMCzaCU7-138">
-          <mxGeometry x="0.1706" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
