@@ -81,10 +81,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qXtYjRTB9vDdkMCzaCU7-133" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qXtYjRTB9vDdkMCzaCU7-130">
+        <mxCell id="qXtYjRTB9vDdkMCzaCU7-133" value="执行决策" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qXtYjRTB9vDdkMCzaCU7-130">
           <mxGeometry x="-0.5829" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qXtYjRTB9vDdkMCzaCU7-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.27;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qXtYjRTB9vDdkMCzaCU7-127" target="qXtYjRTB9vDdkMCzaCU7-117">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
