@@ -16,10 +16,10 @@
           <mxGeometry x="230" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qXtYjRTB9vDdkMCzaCU7-117" value="执行智能体1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="420" width="120" height="50" as="geometry" />
+          <mxGeometry x="100" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qXtYjRTB9vDdkMCzaCU7-118" value="执行智能体2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="420" width="120" height="50" as="geometry" />
+          <mxGeometry x="230" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qXtYjRTB9vDdkMCzaCU7-119" value="执行智能体n" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="390" width="120" height="80" as="geometry" />
@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qXtYjRTB9vDdkMCzaCU7-127" value="局部环境/战场" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qXtYjRTB9vDdkMCzaCU7-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.021;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -104,6 +104,30 @@
         </mxCell>
         <mxCell id="qXtYjRTB9vDdkMCzaCU7-133" value="执行决策" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qXtYjRTB9vDdkMCzaCU7-130">
           <mxGeometry x="-0.5829" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qXtYjRTB9vDdkMCzaCU7-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.587;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qXtYjRTB9vDdkMCzaCU7-127" target="qXtYjRTB9vDdkMCzaCU7-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXtYjRTB9vDdkMCzaCU7-140" value="观测信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qXtYjRTB9vDdkMCzaCU7-135">
+          <mxGeometry x="-0.3807" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qXtYjRTB9vDdkMCzaCU7-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qXtYjRTB9vDdkMCzaCU7-127" target="qXtYjRTB9vDdkMCzaCU7-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXtYjRTB9vDdkMCzaCU7-141" value="观测信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qXtYjRTB9vDdkMCzaCU7-137">
+          <mxGeometry x="0.3324" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qXtYjRTB9vDdkMCzaCU7-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qXtYjRTB9vDdkMCzaCU7-127" target="qXtYjRTB9vDdkMCzaCU7-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXtYjRTB9vDdkMCzaCU7-139" value="观测信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qXtYjRTB9vDdkMCzaCU7-138">
+          <mxGeometry x="0.1706" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
