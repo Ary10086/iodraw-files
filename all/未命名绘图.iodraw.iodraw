@@ -22,6 +22,11 @@
         <mxCell id="qXtYjRTB9vDdkMCzaCU7-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qXtYjRTB9vDdkMCzaCU7-114" target="qXtYjRTB9vDdkMCzaCU7-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qXtYjRTB9vDdkMCzaCU7-123" value="指挥" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qXtYjRTB9vDdkMCzaCU7-120">
+          <mxGeometry x="0.4075" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qXtYjRTB9vDdkMCzaCU7-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.469;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qXtYjRTB9vDdkMCzaCU7-114" target="qXtYjRTB9vDdkMCzaCU7-118">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
