@@ -66,6 +66,14 @@
         <mxCell id="rnJXXsKIVm-52qkfEAzW-21" value="L(φ)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="215" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rnJXXsKIVm-52qkfEAzW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rnJXXsKIVm-52qkfEAzW-22" target="rnJXXsKIVm-52qkfEAzW-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="440" />
+              <mxPoint x="285" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rnJXXsKIVm-52qkfEAzW-22" value="∇ᵂJ(w)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="302.5" width="50" height="37.5" as="geometry" />
         </mxCell>
