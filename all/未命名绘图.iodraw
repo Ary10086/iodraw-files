@@ -26,13 +26,13 @@
           <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rnJXXsKIVm-52qkfEAzW-18" value="&lt;b data-index-in-node=&quot;0&quot; data-path-to-node=&quot;3,0&quot;&gt;Vφ(sₜ₊₁)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="200" width="80" height="50" as="geometry" />
+          <mxGeometry x="430" y="170" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rnJXXsKIVm-52qkfEAzW-19" value="Vφ(sₜ)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="270" width="80" height="50" as="geometry" />
+          <mxGeometry x="430" y="240" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rnJXXsKIVm-52qkfEAzW-20" value="πᵂ(a|s)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="370" width="74" height="50" as="geometry" />
+          <mxGeometry x="426" y="420" width="84" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
