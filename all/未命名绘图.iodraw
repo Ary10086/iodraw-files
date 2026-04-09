@@ -34,6 +34,9 @@
         <mxCell id="rnJXXsKIVm-52qkfEAzW-4" value="Actor&lt;div&gt;policy net&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="380" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rnJXXsKIVm-52qkfEAzW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rnJXXsKIVm-52qkfEAzW-18" target="rnJXXsKIVm-52qkfEAzW-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rnJXXsKIVm-52qkfEAzW-18" value="&lt;b data-index-in-node=&quot;0&quot; data-path-to-node=&quot;3,0&quot;&gt;Vφ(sₜ₊₁)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="180" width="80" height="50" as="geometry" />
         </mxCell>
@@ -51,6 +54,15 @@
         </mxCell>
         <mxCell id="rnJXXsKIVm-52qkfEAzW-20" value="πᵂ(a|s)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="372" y="375" width="78" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rnJXXsKIVm-52qkfEAzW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rnJXXsKIVm-52qkfEAzW-21" target="rnJXXsKIVm-52qkfEAzW-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="230" />
+              <mxPoint x="420" y="130" />
+              <mxPoint x="285" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rnJXXsKIVm-52qkfEAzW-21" value="L(φ)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="215" width="50" height="30" as="geometry" />
