@@ -23,7 +23,7 @@
           <mxGeometry x="250" y="210" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rnJXXsKIVm-52qkfEAzW-4" value="Actor&lt;div&gt;policy net&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="380" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rnJXXsKIVm-52qkfEAzW-18" value="&lt;b data-index-in-node=&quot;0&quot; data-path-to-node=&quot;3,0&quot;&gt;Vφ(sₜ₊₁)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="170" width="80" height="50" as="geometry" />
