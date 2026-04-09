@@ -37,8 +37,17 @@
         <mxCell id="rnJXXsKIVm-52qkfEAzW-18" value="&lt;b data-index-in-node=&quot;0&quot; data-path-to-node=&quot;3,0&quot;&gt;Vφ(sₜ₊₁)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="180" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="rnJXXsKIVm-52qkfEAzW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rnJXXsKIVm-52qkfEAzW-19" target="rnJXXsKIVm-52qkfEAzW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rnJXXsKIVm-52qkfEAzW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="rnJXXsKIVm-52qkfEAzW-19" target="rnJXXsKIVm-52qkfEAzW-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rnJXXsKIVm-52qkfEAzW-19" value="Vφ(sₜ)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="260" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rnJXXsKIVm-52qkfEAzW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="rnJXXsKIVm-52qkfEAzW-20" target="rnJXXsKIVm-52qkfEAzW-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rnJXXsKIVm-52qkfEAzW-20" value="πᵂ(a|s)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="372" y="375" width="78" height="50" as="geometry" />
