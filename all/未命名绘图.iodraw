@@ -22,7 +22,7 @@
         <mxCell id="rnJXXsKIVm-52qkfEAzW-3" value="Critic&lt;br&gt;value net" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rnJXXsKIVm-52qkfEAzW-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rnJXXsKIVm-52qkfEAzW-4" value="Actor&lt;div&gt;policy net&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rnJXXsKIVm-52qkfEAzW-18" value="&lt;b data-index-in-node=&quot;0&quot; data-path-to-node=&quot;3,0&quot;&gt;Vφ(sₜ₊₁)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
