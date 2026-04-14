@@ -11,7 +11,7 @@
           <mxGeometry x="780" y="190" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-244" value="Actor policy net" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1244" y="69" width="176" height="49" as="geometry" />
+          <mxGeometry x="775" y="400" width="176" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-245" value="Vφ(s_t+1)" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="896" y="500" width="95" height="34" as="geometry" />
@@ -23,10 +23,10 @@
           <mxGeometry x="1494" y="542" width="80" height="34" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-248" value="L(φ)" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1053" y="282" width="91" height="49" as="geometry" />
+          <mxGeometry x="1488.5" y="130" width="91" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-249" value="∇w J(w)" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="381" width="118" height="49" as="geometry" />
+          <mxGeometry x="1480" y="280" width="118" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-250" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.27;entryY=0;rounded=0;fontSize=19;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-241" target="vzZSM7LMn5RL2X08ZGJQ-243">
           <mxGeometry relative="1" as="geometry">
