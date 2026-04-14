@@ -8,7 +8,7 @@
           <mxGeometry x="784" y="50" width="232" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-165" value="按训练范式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="110" width="140" height="49" as="geometry" />
+          <mxGeometry x="500" y="110" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-166" value="按任务博弈模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="814" y="293" width="172" height="49" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="670" y="401" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-172" value="完全对抗型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="860" y="401" width="140" height="49" as="geometry" />
+          <mxGeometry x="830" y="401" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-173" value="混合协同对抗型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1050" y="401" width="172" height="49" as="geometry" />
