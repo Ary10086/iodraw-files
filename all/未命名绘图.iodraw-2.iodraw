@@ -38,7 +38,7 @@
           <mxGeometry x="980" y="204" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-175" value="分层多智能体架构 HMARL" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="204" width="243" height="49" as="geometry" />
+          <mxGeometry x="1140" y="204" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-176" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-164" target="vzZSM7LMn5RL2X08ZGJQ-165">
           <mxGeometry relative="1" as="geometry" />
@@ -76,12 +76,8 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-185" value="" style="startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-167" target="vzZSM7LMn5RL2X08ZGJQ-174">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-186" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-167" target="vzZSM7LMn5RL2X08ZGJQ-175">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1584" y="210" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-186" value="" style="startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-167" target="vzZSM7LMn5RL2X08ZGJQ-175">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
