@@ -19,9 +19,6 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-102" value="外部奖励 (External Reward, Rext)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
           <mxGeometry x="450" y="522" width="259" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-103" value="内部奖励 (Intrinsic Reward, Rint)&#xa;(实现 g 的奖励)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
-          <mxGeometry x="240" y="180" width="256" height="84" as="geometry" />
-        </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-104" value="全景状态 (Full State, S)" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0.01;entryX=0.68;entryY=0.99;rounded=0;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-98" source="vzZSM7LMn5RL2X08ZGJQ-100" target="vzZSM7LMn5RL2X08ZGJQ-99">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -37,7 +34,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-106" value="子目标 (Sub-Goal, g)" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.24;entryY=0;rounded=0;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-98" source="vzZSM7LMn5RL2X08ZGJQ-99" target="vzZSM7LMn5RL2X08ZGJQ-101">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-106" value="子目标 (Sub-Goal, g)" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.24;entryY=0;rounded=0;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-98" source="vzZSM7LMn5RL2X08ZGJQ-103" target="vzZSM7LMn5RL2X08ZGJQ-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="129" y="167" />
@@ -81,6 +78,16 @@
               <mxPoint x="368" y="337" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-118" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.24;entryY=0;rounded=0;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-98" source="vzZSM7LMn5RL2X08ZGJQ-99" target="vzZSM7LMn5RL2X08ZGJQ-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="372" y="145" as="sourcePoint" />
+            <mxPoint x="442" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-103" value="内部奖励 (Intrinsic Reward, Rint)&#xa;(实现 g 的奖励)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
+          <mxGeometry x="70" y="260" width="256" height="84" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-112" value="时间尺度" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="791" y="237" width="259" height="371" as="geometry" />
