@@ -17,10 +17,10 @@
           <mxGeometry x="1082" y="130" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-168" value="完全集中式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="204" width="140" height="49" as="geometry" />
+          <mxGeometry x="330" y="204" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-169" value="完全分布式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="490" y="204" width="140" height="49" as="geometry" />
+          <mxGeometry x="500" y="204" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-170" value="集中式训练分布式执行 CTDE" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="660" y="206" width="170" height="45" as="geometry" />
@@ -51,12 +51,8 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-178" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-164" target="vzZSM7LMn5RL2X08ZGJQ-167">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-179" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-165" target="vzZSM7LMn5RL2X08ZGJQ-168">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="90" y="210" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-179" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-165" target="vzZSM7LMn5RL2X08ZGJQ-168">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-180" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-165" target="vzZSM7LMn5RL2X08ZGJQ-169">
           <mxGeometry relative="1" as="geometry">
