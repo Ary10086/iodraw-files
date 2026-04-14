@@ -4,18 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-1" value="智能体内部 HRL 架构" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="110" y="30" width="762" height="263" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-4" value="多智能体共享环境" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="470" y="370" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-8" value="环境状态/局部观测" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.93;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-4">
-          <mxGeometry x="0.3809" y="-59" relative="1" as="geometry">
-            <mxPoint x="261.5" y="237" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-10" value="High-Risk Combat Zone" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="135" y="630" width="698" height="233" as="geometry" />
         </mxCell>
