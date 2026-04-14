@@ -44,8 +44,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-252" value="" style="startArrow=none;endArrow=block;exitX=0.74;exitY=0.01;entryX=0.5;entryY=0;rounded=0;fontSize=19;entryDx=0;entryDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-242" target="vzZSM7LMn5RL2X08ZGJQ-244">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-252" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontSize=19;entryDx=0;entryDy=0;" edge="1" parent="1" target="vzZSM7LMn5RL2X08ZGJQ-244">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="322" />
+            </Array>
+            <mxPoint x="580" y="322" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-253" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.18;entryX=0.46;entryY=-0.01;rounded=0;fontSize=19;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-243" target="vzZSM7LMn5RL2X08ZGJQ-245">
           <mxGeometry relative="1" as="geometry">
