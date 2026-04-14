@@ -14,13 +14,12 @@
           <mxGeometry x="504" y="55" width="253" height="119" as="geometry" />
         </mxCell>
         <mxCell id="1c0wTczyzyPqpsgL6Thl-4" value="**多智能体共享环境**&#xa;(Shared Environment)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="972" y="134" width="216" height="66" as="geometry" />
+          <mxGeometry x="972" y="120" width="216" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="1c0wTczyzyPqpsgL6Thl-5" value="宏观子目标/抽象动作" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=0;entryY=0.5;rounded=0;" parent="1" source="1c0wTczyzyPqpsgL6Thl-2" target="1c0wTczyzyPqpsgL6Thl-3" edge="1">
+        <mxCell id="1c0wTczyzyPqpsgL6Thl-5" value="宏观子目标/抽象动作" style="startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry x="0.0316" y="39" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="401" y="115" />
-            </Array>
+            <mxPoint x="273" y="135.25" as="sourcePoint" />
+            <mxPoint x="504" y="100" as="targetPoint" />
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
