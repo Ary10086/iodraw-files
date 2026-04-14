@@ -42,10 +42,8 @@
         <mxCell id="1c0wTczyzyPqpsgL6Thl-8" value="环境状态/局部观测" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1c0wTczyzyPqpsgL6Thl-4" target="1c0wTczyzyPqpsgL6Thl-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1080" y="238" />
-              <mxPoint x="620" y="238" />
-              <mxPoint x="620" y="239" />
-              <mxPoint x="172" y="239" />
+              <mxPoint x="1080" y="330" />
+              <mxPoint x="172" y="330" />
             </Array>
             <mxPoint x="964" y="238.38" as="sourcePoint" />
             <mxPoint x="290" y="240" as="targetPoint" />
