@@ -13,7 +13,7 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-3" value="**低层策略 (Low-level Policy)**&#xa;• 视角：短期、具体行为&#xa;• 职责：执行动作实现子目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="594" y="65" width="253" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-4" value="多智能体共享环境&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-4" value="多智能体共享环境&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="400" y="340" width="216" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-5" value="宏观子目标/抽象动作" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-2" target="vzZSM7LMn5RL2X08ZGJQ-3">
