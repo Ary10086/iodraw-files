@@ -42,7 +42,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-32" value="战术数据链" style="startArrow=none;endArrow=block;exitX=0.33;exitY=1;entryX=0.34;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-24" target="vzZSM7LMn5RL2X08ZGJQ-25">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.2324" y="-40" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-33" value="OODA 循环" style="startArrow=none;endArrow=block;exitX=0.66;exitY=0;entryX=0.67;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-25" target="vzZSM7LMn5RL2X08ZGJQ-24">
           <mxGeometry relative="1" as="geometry" />
