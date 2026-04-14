@@ -26,7 +26,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-51" value="a2" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.58;entryY=1.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-45" target="vzZSM7LMn5RL2X08ZGJQ-48">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.0409" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-52" value="am" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.55;entryY=1.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-47" target="vzZSM7LMn5RL2X08ZGJQ-48">
           <mxGeometry relative="1" as="geometry" />
@@ -34,12 +36,13 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-53" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-48" target="vzZSM7LMn5RL2X08ZGJQ-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-54" value="r1, o1" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-49">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-54" value="r1, o1" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-49">
+          <mxGeometry x="-0.0017" relative="1" as="geometry">
             <mxPoint x="210" y="320" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-55" value="r2, o2" style="startArrow=none;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vzZSM7LMn5RL2X08ZGJQ-45">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-55" value="r2, o2" style="startArrow=none;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" target="vzZSM7LMn5RL2X08ZGJQ-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="200" as="sourcePoint" />
             <mxPoint x="441" y="320" as="targetPoint" />
