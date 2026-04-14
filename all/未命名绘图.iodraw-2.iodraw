@@ -7,7 +7,7 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-1" value="智能体内部 HRL 架构" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="110" y="30" width="762" height="263" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-2" value="**高层策略 (High-level Policy)**&#xa;• 视角：长期、全局任务达成&#xa;• 职责：生成宏观子目标" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-2" value="**高层策略 (High-level Policy)**&#xa;• 视角：长期、全局任务达成&#xa;• 职责：生成宏观子目标" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="135" y="118" width="253" height="119" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-3" value="**低层策略 (Low-level Policy)**&#xa;• 视角：短期、具体行为&#xa;• 职责：执行动作实现子目标" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
