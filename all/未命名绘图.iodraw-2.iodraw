@@ -8,7 +8,7 @@
           <mxGeometry x="772" y="50" width="256" height="46" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-165" value="按训练范式" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="500" y="110" width="140" height="49" as="geometry" />
+          <mxGeometry x="530" y="130" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-166" value="按任务博弈模式" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="814" y="293" width="172" height="49" as="geometry" />
@@ -17,13 +17,13 @@
           <mxGeometry x="1082" y="130" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-168" value="完全集中式" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="330" y="204" width="140" height="49" as="geometry" />
+          <mxGeometry x="360" y="224" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-169" value="完全分布式" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="500" y="204" width="140" height="49" as="geometry" />
+          <mxGeometry x="530" y="224" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-170" value="集中式训练分布式执行 CTDE" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="660" y="206" width="170" height="45" as="geometry" />
+          <mxGeometry x="690" y="226" width="170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-171" value="完全合作型" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="680" y="401" width="140" height="49" as="geometry" />
@@ -76,8 +76,14 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-185" value="" style="startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-167" target="vzZSM7LMn5RL2X08ZGJQ-174">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-186" value="" style="startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-167" target="vzZSM7LMn5RL2X08ZGJQ-175">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-186" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1614" y="230" />
+            </Array>
+            <mxPoint x="1242.2000000000003" y="198.9999999999999" as="sourcePoint" />
+            <mxPoint x="1270" y="223.9999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
