@@ -19,7 +19,7 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-47" value="智能体 m" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="320" width="127" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-48" value="联合动作: a = (a1, a2, ..., am)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-48" value="联合动作: a = (a1, a2, ..., am)" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="180" y="67.5" width="246" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-49" value="环境 (Environment)&#xa;联合奖励 | 全局状态" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-50" value="a1" style="startArrow=none;endArrow=block;exitX=1;exitY=0.3;entryX=0.39;entryY=1.01;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-44" target="vzZSM7LMn5RL2X08ZGJQ-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-51" value="a2" style="startArrow=none;endArrow=block;exitX=0.22;exitY=0.99;entryX=0.58;entryY=1.01;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-45" target="vzZSM7LMn5RL2X08ZGJQ-48">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-51" value="a2" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.58;entryY=1.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-45" target="vzZSM7LMn5RL2X08ZGJQ-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-52" value="am" style="startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.55;entryY=1.01;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-47" target="vzZSM7LMn5RL2X08ZGJQ-48">
