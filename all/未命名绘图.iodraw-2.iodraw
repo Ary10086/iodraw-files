@@ -67,12 +67,6 @@
             <mxPoint x="890.5" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-273" value="" style="startArrow=none;endArrow=block;exitX=0.39;exitY=0.01;entryX=0.72;entryY=0;rounded=0;fontSize=19;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-248" target="vzZSM7LMn5RL2X08ZGJQ-245">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1524" y="130" as="sourcePoint" />
-            <mxPoint x="913" y="244" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-245" value="Vφ(s_t+1)" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1070" y="190" width="95" height="34" as="geometry" />
         </mxCell>
