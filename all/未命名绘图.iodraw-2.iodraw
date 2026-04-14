@@ -77,7 +77,7 @@
             <mxPoint x="524" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-120" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-98" source="vzZSM7LMn5RL2X08ZGJQ-102" target="vzZSM7LMn5RL2X08ZGJQ-98">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-121" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-98" source="vzZSM7LMn5RL2X08ZGJQ-102" target="vzZSM7LMn5RL2X08ZGJQ-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-102" value="外部奖励 (External Reward, Rext)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
