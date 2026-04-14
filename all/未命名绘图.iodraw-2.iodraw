@@ -13,10 +13,10 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-100" value="**环境**&#xa;(Environment)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
           <mxGeometry x="210" y="580" width="162" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-101" value="**低级策略**&#xa;(Low-Level Policy, πL)&#xa;技能执行与控制" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-101" value="低级策略&#xa;(Low-Level Policy, πL)&#xa;技能执行与控制" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
           <mxGeometry x="59.5" y="360" width="217" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-103" value="内部奖励 (Intrinsic Reward, Rint)&#xa;(实现 g 的奖励)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-103" value="内部奖励 (Intrinsic Reward, Rint)&#xa;(实现 g 的奖励)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
           <mxGeometry x="40" y="230" width="256" height="84" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-104" value="全景状态 (Full State, S)" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.5;entryY=1;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-98" source="vzZSM7LMn5RL2X08ZGJQ-102" target="vzZSM7LMn5RL2X08ZGJQ-99">
