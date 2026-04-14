@@ -1,34 +1,31 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="tAGSCSJO1QBqPvjR16nt">
-    <mxGraphModel dx="1011" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1011" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-22" value="高风险作战区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="639" width="511" height="215" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-23" value="安全区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="148" y="450" width="253" height="116" as="geometry" />
+          <mxGeometry x="20" y="59" width="511" height="215" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-24" value="有人战斗机 / 指挥与控制节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193" y="475" width="172" height="66" as="geometry" />
+          <mxGeometry x="173.5" y="-70" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-25" value="异构无人机蜂群 / 忠诚僚机与 CCA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="187" y="664" width="185" height="66" as="geometry" />
+          <mxGeometry x="167" y="84" width="185" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-26" value="侦察" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="75" y="780" width="92" height="49" as="geometry" />
+          <mxGeometry x="55" y="200" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-27" value="电子干扰" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="217" y="780" width="125" height="49" as="geometry" />
+          <mxGeometry x="197" y="200" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-28" value="动能打击" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="392" y="780" width="124" height="49" as="geometry" />
+          <mxGeometry x="372" y="200" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-25" target="vzZSM7LMn5RL2X08ZGJQ-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="121" y="755" />
+              <mxPoint x="101" y="175" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -40,23 +37,23 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-25" target="vzZSM7LMn5RL2X08ZGJQ-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="454" y="755" />
+              <mxPoint x="434" y="175" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-32" value="战术数据链" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=1;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-24" target="vzZSM7LMn5RL2X08ZGJQ-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="228" y="566" />
-              <mxPoint x="228" y="639" />
+              <mxPoint x="208" y="-14" />
+              <mxPoint x="208" y="59" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-33" value="OODA 循环" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0;entryX=0.67;entryY=1;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-25" target="vzZSM7LMn5RL2X08ZGJQ-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="331" y="639" />
-              <mxPoint x="331" y="566" />
+              <mxPoint x="311" y="59" />
+              <mxPoint x="311" y="-14" />
             </Array>
           </mxGeometry>
         </mxCell>
