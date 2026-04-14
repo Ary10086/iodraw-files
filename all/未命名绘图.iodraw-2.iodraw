@@ -28,21 +28,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-40" value="状态 s (State)" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=0;entryX=0;entryY=0.29;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-35" target="vzZSM7LMn5RL2X08ZGJQ-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="351" y="78" />
-              <mxPoint x="434" y="78" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-40" value="状态 s (State)" style="startArrow=none;endArrow=block;exitX=0.88;exitY=0;entryX=0;entryY=0.29;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=12;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-35" target="vzZSM7LMn5RL2X08ZGJQ-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-41" value="奖励 r (Reward)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.29;entryX=0;entryY=0.77;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-35" target="vzZSM7LMn5RL2X08ZGJQ-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="351" y="128" />
-              <mxPoint x="434" y="128" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-41" value="奖励 r (Reward)" style="startArrow=none;endArrow=block;exitX=1;exitY=0.29;entryX=0;entryY=0.77;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-35" target="vzZSM7LMn5RL2X08ZGJQ-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-42" value="执行动作 a (Action)" style="startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.85;entryY=1;rounded=0;fontSize=15;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-36" target="vzZSM7LMn5RL2X08ZGJQ-35">
           <mxGeometry relative="1" as="geometry" />
