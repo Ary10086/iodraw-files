@@ -26,11 +26,14 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-6" value="执行具体物理动作" style="startArrow=none;endArrow=block;exitX=1;exitY=0.31;entryX=0.11;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-3" target="vzZSM7LMn5RL2X08ZGJQ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-7" value="环境状态/局部观测" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.38;entryX=1;entryY=0.76;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-4" target="vzZSM7LMn5RL2X08ZGJQ-3">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-7" value="环境状态/局部观测" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.38;entryX=1;entryY=0.76;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-4" target="vzZSM7LMn5RL2X08ZGJQ-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="967" y="162" />
-              <mxPoint x="872" y="162" />
+              <mxPoint x="400" y="340" />
+              <mxPoint x="390" y="340" />
+              <mxPoint x="390" y="262" />
+              <mxPoint x="857" y="262" />
+              <mxPoint x="857" y="155" />
             </Array>
           </mxGeometry>
         </mxCell>
