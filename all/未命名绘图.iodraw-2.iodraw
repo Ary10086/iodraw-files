@@ -11,16 +11,16 @@
           <mxGeometry x="342" y="46" width="223" height="84" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-100" value="**环境**&#xa;(Environment)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
-          <mxGeometry x="291" y="567" width="162" height="66" as="geometry" />
+          <mxGeometry x="210" y="580" width="162" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-101" value="**低级策略**&#xa;(Low-Level Policy, πL)&#xa;技能执行与控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
-          <mxGeometry x="240" y="330" width="217" height="84" as="geometry" />
+          <mxGeometry x="30" y="360" width="217" height="84" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-102" value="外部奖励 (External Reward, Rext)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
-          <mxGeometry x="450" y="522" width="259" height="66" as="geometry" />
+          <mxGeometry x="342" y="690" width="259" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-103" value="内部奖励 (Intrinsic Reward, Rint)&#xa;(实现 g 的奖励)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
-          <mxGeometry x="240" y="180" width="256" height="84" as="geometry" />
+          <mxGeometry x="40" y="230" width="256" height="84" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-104" value="全景状态 (Full State, S)" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0.01;entryX=0.68;entryY=0.99;rounded=0;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-98" source="vzZSM7LMn5RL2X08ZGJQ-100" target="vzZSM7LMn5RL2X08ZGJQ-99">
           <mxGeometry relative="1" as="geometry">
