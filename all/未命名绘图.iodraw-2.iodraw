@@ -8,16 +8,16 @@
           <mxGeometry x="30" y="30" width="721" height="804" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-99" value="**高级策略**&#xa;(High-Level Policy, πH)&#xa;目标规划与分解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
-          <mxGeometry x="342" y="46" width="223" height="84" as="geometry" />
+          <mxGeometry x="390" y="400" width="223" height="84" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-100" value="**环境**&#xa;(Environment)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
-          <mxGeometry x="160" y="522" width="162" height="66" as="geometry" />
+          <mxGeometry x="279.5" y="110" width="162" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-101" value="**低级策略**&#xa;(Low-Level Policy, πL)&#xa;技能执行与控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
-          <mxGeometry x="360" y="310" width="217" height="84" as="geometry" />
+          <mxGeometry x="89.5" y="400" width="217" height="84" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-102" value="外部奖励 (External Reward, Rext)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
-          <mxGeometry x="450" y="522" width="259" height="66" as="geometry" />
+          <mxGeometry x="390" y="269" width="259" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-104" value="全景状态 (Full State, S)" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0.01;entryX=0.68;entryY=0.99;rounded=0;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-98" source="vzZSM7LMn5RL2X08ZGJQ-100" target="vzZSM7LMn5RL2X08ZGJQ-99">
           <mxGeometry relative="1" as="geometry">
@@ -88,28 +88,6 @@
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-103" value="内部奖励 (Intrinsic Reward, Rint)&#xa;(实现 g 的奖励)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-98">
           <mxGeometry x="70" y="260" width="256" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-112" value="时间尺度" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="791" y="237" width="259" height="371" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-113" value="高级慢速时间尺度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-112">
-          <mxGeometry x="43" y="46" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-114" value="跨时间尺度交互" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-112">
-          <mxGeometry x="51" y="169" width="173" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-115" value="低级快速时间尺度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vzZSM7LMn5RL2X08ZGJQ-112">
-          <mxGeometry x="43" y="293" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-116" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-112" source="vzZSM7LMn5RL2X08ZGJQ-113" target="vzZSM7LMn5RL2X08ZGJQ-114">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-117" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-112" source="vzZSM7LMn5RL2X08ZGJQ-114" target="vzZSM7LMn5RL2X08ZGJQ-115">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
