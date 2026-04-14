@@ -10,6 +10,9 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-456" value="F（Q1，K1）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="140" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-478" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-457" target="vzZSM7LMn5RL2X08ZGJQ-474">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-457" value="F（Q1，K4）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="140" width="90" height="30" as="geometry" />
         </mxCell>
@@ -66,6 +69,9 @@
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-474" value="S4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="200" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-479" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
