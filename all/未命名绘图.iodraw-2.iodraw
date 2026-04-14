@@ -25,6 +25,9 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-246" value="Vφ(s_t)" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1078.5" y="293" width="78" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-277" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-247" target="vzZSM7LMn5RL2X08ZGJQ-249">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-247" value="πw(a|s)" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1070" y="407.5" width="80" height="34" as="geometry" />
         </mxCell>
@@ -49,12 +52,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-257" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.01;entryX=0.42;entryY=1;rounded=0;fontSize=19;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-246" target="vzZSM7LMn5RL2X08ZGJQ-248">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-258" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.42;entryY=0.99;rounded=0;fontSize=19;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-246" target="vzZSM7LMn5RL2X08ZGJQ-249">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-259" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.62;entryY=0.99;rounded=0;fontSize=19;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-247" target="vzZSM7LMn5RL2X08ZGJQ-249">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-268" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-241" target="vzZSM7LMn5RL2X08ZGJQ-243">
