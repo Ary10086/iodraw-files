@@ -7,11 +7,6 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-242" value="S_T" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="550" y="320" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-265" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-243">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-243" value="Critic value net" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="780" y="190" width="171" height="49" as="geometry" />
         </mxCell>
@@ -51,9 +46,6 @@
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-252" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontSize=19;entryDx=0;entryDy=0;" edge="1" parent="1" target="vzZSM7LMn5RL2X08ZGJQ-244">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="790" y="310" />
-            </Array>
             <mxPoint x="580" y="322" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
