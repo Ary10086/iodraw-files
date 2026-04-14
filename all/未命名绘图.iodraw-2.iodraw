@@ -7,7 +7,7 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-34" value="智能体 (Agent)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="420" y="29" width="658" height="244" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-35" value="环境 (Environment)&#xa;(进行状态转移，提供奖励)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-35" value="环境 (Environment)&#xa;(进行状态转移，提供奖励)" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="90" y="118" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-36" value="演员 (Actor)&#xa;(决策)&#xa;生成动作，策略 π(a|s)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
