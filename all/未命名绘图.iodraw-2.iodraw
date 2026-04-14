@@ -25,14 +25,14 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-170" value="集中式训练分布式执行 CTDE" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="660" y="206" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-171" value="完全合作型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="670" y="401" width="140" height="49" as="geometry" />
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-171" value="完全合作型" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="680" y="401" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-172" value="完全对抗型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-172" value="完全对抗型" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="830" y="401" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-173" value="混合协同对抗型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="401" width="172" height="49" as="geometry" />
+          <mxGeometry x="980" y="401" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-174" value="单层级架构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1016" y="204" width="140" height="49" as="geometry" />
