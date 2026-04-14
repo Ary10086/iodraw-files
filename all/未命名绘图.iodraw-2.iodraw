@@ -40,13 +40,8 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-175" value="分层多智能体架构 HMARL" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1206" y="204" width="243" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-176" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-164" target="vzZSM7LMn5RL2X08ZGJQ-165">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="550" y="90" />
-              <mxPoint x="280" y="111" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-176" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-164" target="vzZSM7LMn5RL2X08ZGJQ-165">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-177" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-164" target="vzZSM7LMn5RL2X08ZGJQ-166">
           <mxGeometry relative="1" as="geometry">
@@ -72,12 +67,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-181" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-165" target="vzZSM7LMn5RL2X08ZGJQ-170">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="210" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-181" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-165" target="vzZSM7LMn5RL2X08ZGJQ-170">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-182" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-166" target="vzZSM7LMn5RL2X08ZGJQ-171">
           <mxGeometry relative="1" as="geometry">
