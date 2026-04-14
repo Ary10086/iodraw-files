@@ -155,7 +155,13 @@
           <mxGeometry x="590" y="100" width="80" height="115" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-507" value="阶段1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="665" y="138" width="50" height="30" as="geometry" />
+          <mxGeometry x="670" y="142.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-508" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="600" y="110" width="80" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-509" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="610" y="120" width="80" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
