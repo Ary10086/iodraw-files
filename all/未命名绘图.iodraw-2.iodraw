@@ -4,59 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-10" value="High-Risk Combat Zone" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="698" height="233" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-12" value="Manned Fighter / Command &amp; Control Node" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="242" y="45" width="260" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-13" value="Heterogeneous UAV Swarm / Loyal Wingman &amp; CCA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244.5" y="210" width="252" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-14" value="Reconnaissance" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="368" width="171" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-15" value="Electronic Jamming" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="271" y="368" width="201" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-16" value="Kinetic Strike" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="522" y="368" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-13" target="vzZSM7LMn5RL2X08ZGJQ-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="136" y="343" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-13" target="vzZSM7LMn5RL2X08ZGJQ-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-13" target="vzZSM7LMn5RL2X08ZGJQ-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="600" y="343" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-20" value="Tactical Data Links" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-12" target="vzZSM7LMn5RL2X08ZGJQ-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="306" y="136" />
-              <mxPoint x="306" y="209" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-21" value="OODA Loop" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0;entryX=0.66;entryY=1;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-13" target="vzZSM7LMn5RL2X08ZGJQ-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="444" y="209" />
-              <mxPoint x="444" y="136" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-22" value="高风险作战区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="639" width="511" height="215" as="geometry" />
         </mxCell>
