@@ -166,6 +166,9 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-510" value="阶段2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="267.5" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-511" value="阶段3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="668.5" y="392.5" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
