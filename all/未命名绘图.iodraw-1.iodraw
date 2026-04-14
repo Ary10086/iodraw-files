@@ -13,6 +13,16 @@
         <mxCell id="1c0wTczyzyPqpsgL6Thl-3" value="**低层策略 (Low-level Policy)**&#xa;• 视角：短期、具体行为&#xa;• 职责：执行动作实现子目标" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="560" y="45" width="187" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="GeAMif0RrKDIeuSrrJUI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1c0wTczyzyPqpsgL6Thl-4" target="1c0wTczyzyPqpsgL6Thl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1018" y="350" />
+              <mxPoint x="846" y="350" />
+              <mxPoint x="846" y="270" />
+              <mxPoint x="491" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1c0wTczyzyPqpsgL6Thl-4" value="**多智能体共享环境**&#xa;(Shared Environment)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="910" y="184" width="216" height="66" as="geometry" />
         </mxCell>
