@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-34" value="智能体 (Agent)" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-34" value="智能体 (Agent)" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="420" y="29" width="658" height="244" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-35" value="环境 (Environment)&#xa;(进行状态转移，提供奖励)" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
@@ -23,12 +23,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-39" value="状态 s (State)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.84;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-35" target="vzZSM7LMn5RL2X08ZGJQ-36">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-39" value="状态 s (State)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.84;entryX=0;entryY=0.51;rounded=0;fontSize=14;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-35" target="vzZSM7LMn5RL2X08ZGJQ-36">
+          <mxGeometry x="-0.034" y="-2" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="351" y="188" />
               <mxPoint x="765" y="188" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-40" value="状态 s (State)" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=0;entryX=0;entryY=0.29;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-35" target="vzZSM7LMn5RL2X08ZGJQ-37">
