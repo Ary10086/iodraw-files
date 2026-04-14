@@ -11,10 +11,10 @@
           <mxGeometry x="520" y="110" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-166" value="按任务博弈模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="835" y="166" width="172" height="49" as="geometry" />
+          <mxGeometry x="844" y="293" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-167" value="按决策架构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1393" y="136" width="140" height="49" as="geometry" />
+          <mxGeometry x="1136" y="96" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-168" value="完全集中式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="204" width="140" height="49" as="geometry" />
@@ -26,19 +26,19 @@
           <mxGeometry x="680" y="195" width="221" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-171" value="完全合作型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="661" y="274" width="140" height="49" as="geometry" />
+          <mxGeometry x="670" y="401" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-172" value="完全对抗型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="851" y="274" width="140" height="49" as="geometry" />
+          <mxGeometry x="860" y="401" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-173" value="混合协同对抗型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1041" y="274" width="172" height="49" as="geometry" />
+          <mxGeometry x="1050" y="401" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-174" value="单层级架构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1273" y="244" width="140" height="49" as="geometry" />
+          <mxGeometry x="1016" y="204" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-175" value="分层多智能体架构 HMARL" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1463" y="244" width="243" height="49" as="geometry" />
+          <mxGeometry x="1206" y="204" width="243" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-176" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-164" target="vzZSM7LMn5RL2X08ZGJQ-165">
           <mxGeometry relative="1" as="geometry">
