@@ -4,41 +4,99 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-1" value="智能体内部 HRL 架构 (Agent Internal Architecture)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-1" value="智能体内部 HRL 架构" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="110" y="30" width="762" height="263" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-2" value="**高层策略 (High-level Policy)**&#xa;• 视角：长期、全局任务达成&#xa;• 职责：生成宏观子目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-2" value="**高层策略 (High-level Policy)**&#xa;• 视角：长期、全局任务达成&#xa;• 职责：生成宏观子目标" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="135" y="118" width="253" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-3" value="**低层策略 (Low-level Policy)**&#xa;• 视角：短期、具体行为&#xa;• 职责：执行动作实现子目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-3" value="**低层策略 (Low-level Policy)**&#xa;• 视角：短期、具体行为&#xa;• 职责：执行动作实现子目标" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="594" y="65" width="253" height="119" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-4" value="多智能体共享环境" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="470" y="370" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-5" value="宏观子目标/抽象动作" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-2" target="vzZSM7LMn5RL2X08ZGJQ-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="491" y="125" />
-            </Array>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-5" value="宏观子目标/抽象动作" style="startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=14;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-2" target="vzZSM7LMn5RL2X08ZGJQ-3">
+          <mxGeometry x="0.1017" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-6" value="执行具体物理动作" style="startArrow=none;endArrow=block;exitX=1;exitY=0.31;entryX=0.11;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-3" target="vzZSM7LMn5RL2X08ZGJQ-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-6" value="执行具体物理动作" style="startArrow=none;endArrow=block;exitX=1;exitY=0.31;entryX=0.11;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=14;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-3" target="vzZSM7LMn5RL2X08ZGJQ-4">
+          <mxGeometry x="0.0001" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-7" value="环境状态/局部观测" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-4" target="vzZSM7LMn5RL2X08ZGJQ-3">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-7" value="环境状态/局部观测" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-4" target="vzZSM7LMn5RL2X08ZGJQ-3">
+          <mxGeometry x="0.0013" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="320" />
               <mxPoint x="721" y="320" />
             </Array>
             <mxPoint x="629.97" y="474.39" as="sourcePoint" />
             <mxPoint x="990" y="237" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-8" value="环境状态/局部观测" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.93;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-4" target="vzZSM7LMn5RL2X08ZGJQ-2">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-8" value="环境状态/局部观测" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.93;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-4" target="vzZSM7LMn5RL2X08ZGJQ-2">
+          <mxGeometry x="0.3809" y="-59" relative="1" as="geometry">
             <mxPoint x="400" y="206" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-10" value="High-Risk Combat Zone" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="639" width="698" height="233" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-11" value="Safe Zone" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="299" y="450" width="333" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-12" value="Manned Fighter / Command &amp; Control Node" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="337" y="475" width="260" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-13" value="Heterogeneous UAV Swarm / Loyal Wingman &amp; CCA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="341" y="664" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-14" value="Reconnaissance" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="145" y="798" width="171" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-15" value="Electronic Jamming" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="366" y="798" width="201" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-16" value="Kinetic Strike" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="617" y="798" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-13" target="vzZSM7LMn5RL2X08ZGJQ-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="231" y="773" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-13" target="vzZSM7LMn5RL2X08ZGJQ-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-13" target="vzZSM7LMn5RL2X08ZGJQ-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="695" y="773" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-20" value="Tactical Data Links" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-12" target="vzZSM7LMn5RL2X08ZGJQ-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="401" y="566" />
+              <mxPoint x="401" y="639" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-21" value="OODA Loop" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0;entryX=0.66;entryY=1;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-13" target="vzZSM7LMn5RL2X08ZGJQ-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="539" y="639" />
+              <mxPoint x="539" y="566" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
