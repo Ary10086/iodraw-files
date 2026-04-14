@@ -19,9 +19,6 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-267" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-243" target="vzZSM7LMn5RL2X08ZGJQ-246">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-271" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-243" target="vzZSM7LMn5RL2X08ZGJQ-244">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-243" value="Critic value net" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="780" y="190" width="171" height="49" as="geometry" />
         </mxCell>
@@ -67,10 +64,10 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-241" value="S_t+1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="550" y="190" width="54" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-272" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-272" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="vzZSM7LMn5RL2X08ZGJQ-243">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="820" y="440" as="sourcePoint" />
-            <mxPoint x="870" y="390" as="targetPoint" />
+            <mxPoint x="840.5" y="340" as="sourcePoint" />
+            <mxPoint x="890.5" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
