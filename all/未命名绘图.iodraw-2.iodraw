@@ -34,17 +34,18 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-53" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-48" target="vzZSM7LMn5RL2X08ZGJQ-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-54" value="r1, o1" style="startArrow=none;endArrow=block;exitX=0.29;exitY=1;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-49">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-54" value="r1, o1" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-49">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-55" value="r2, o2" style="startArrow=none;endArrow=block;exitX=0.92;exitY=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-49" target="vzZSM7LMn5RL2X08ZGJQ-45">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-55" value="r2, o2" style="startArrow=none;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vzZSM7LMn5RL2X08ZGJQ-45">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="200" as="sourcePoint" />
             <mxPoint x="441" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-56" value="rm, om" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-49" target="vzZSM7LMn5RL2X08ZGJQ-47">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-56" value="rm, om" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-49" target="vzZSM7LMn5RL2X08ZGJQ-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
