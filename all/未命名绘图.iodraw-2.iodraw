@@ -24,22 +24,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-105" value="局部观察 (Observation, o)" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=0.01;entryX=0.8;entryY=1;rounded=0;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-98" source="vzZSM7LMn5RL2X08ZGJQ-100" target="vzZSM7LMn5RL2X08ZGJQ-101">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="392" y="519" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-105" value="局部观察 (Observation, o)" style="startArrow=none;endArrow=block;exitX=0.55;exitY=0.01;entryX=0.8;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-98" source="vzZSM7LMn5RL2X08ZGJQ-100" target="vzZSM7LMn5RL2X08ZGJQ-101">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-106" value="子目标 (Sub-Goal, g)" style="startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=1;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-98" source="vzZSM7LMn5RL2X08ZGJQ-99" target="vzZSM7LMn5RL2X08ZGJQ-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-107" value="原始动作 (Action, a)" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-98" source="vzZSM7LMn5RL2X08ZGJQ-101" target="vzZSM7LMn5RL2X08ZGJQ-100">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="129" y="519" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-107" value="原始动作 (Action, a)" style="startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-98" source="vzZSM7LMn5RL2X08ZGJQ-101" target="vzZSM7LMn5RL2X08ZGJQ-100">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-110" value="" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="vzZSM7LMn5RL2X08ZGJQ-98" source="vzZSM7LMn5RL2X08ZGJQ-99" target="vzZSM7LMn5RL2X08ZGJQ-103">
           <mxGeometry relative="1" as="geometry" />
