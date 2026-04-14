@@ -72,7 +72,7 @@
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-245" value="Vφ(s_t+1)" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1070" y="190" width="95" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-275" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-275" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vzZSM7LMn5RL2X08ZGJQ-245">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1000" y="450" as="sourcePoint" />
             <mxPoint x="1050" y="400" as="targetPoint" />
