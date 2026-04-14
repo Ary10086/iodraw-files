@@ -4,6 +4,49 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-1" value="智能体内部 HRL 架构 (Agent Internal Architecture)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="762" height="263" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-2" value="**高层策略 (High-level Policy)**&#xa;• 视角：长期、全局任务达成&#xa;• 职责：生成宏观子目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="108" width="253" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-3" value="**低层策略 (Low-level Policy)**&#xa;• 视角：短期、具体行为&#xa;• 职责：执行动作实现子目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="504" y="55" width="253" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-4" value="**多智能体共享环境**&#xa;(Shared Environment)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="972" y="134" width="216" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-5" value="宏观子目标/抽象动作" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-2" target="vzZSM7LMn5RL2X08ZGJQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="401" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-6" value="执行具体物理动作" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.31;entryX=0.11;entryY=0.01;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-3" target="vzZSM7LMn5RL2X08ZGJQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="782" y="87" />
+              <mxPoint x="877" y="87" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-7" value="环境状态/局部观测" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.38;entryX=1;entryY=0.76;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-4" target="vzZSM7LMn5RL2X08ZGJQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="877" y="152" />
+              <mxPoint x="782" y="152" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzZSM7LMn5RL2X08ZGJQ-8" value="环境状态/局部观测" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=1;entryY=0.74;rounded=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-4" target="vzZSM7LMn5RL2X08ZGJQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="877" y="220" />
+              <mxPoint x="401" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
