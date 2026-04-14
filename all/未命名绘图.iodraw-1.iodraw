@@ -16,11 +16,14 @@
         <mxCell id="GeAMif0RrKDIeuSrrJUI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1c0wTczyzyPqpsgL6Thl-4" target="1c0wTczyzyPqpsgL6Thl-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1018" y="350" />
-              <mxPoint x="846" y="350" />
-              <mxPoint x="846" y="270" />
-              <mxPoint x="491" y="270" />
+              <mxPoint x="1018" y="290" />
+              <mxPoint x="491" y="290" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GeAMif0RrKDIeuSrrJUI-5" value="环境状态/局部观测" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GeAMif0RrKDIeuSrrJUI-4">
+          <mxGeometry x="-0.0632" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1c0wTczyzyPqpsgL6Thl-4" value="**多智能体共享环境**&#xa;(Shared Environment)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
@@ -34,6 +37,11 @@
             </Array>
             <mxPoint x="273" y="90.25" as="sourcePoint" />
             <mxPoint x="504" y="55" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GeAMif0RrKDIeuSrrJUI-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1c0wTczyzyPqpsgL6Thl-5">
+          <mxGeometry x="0.3708" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
