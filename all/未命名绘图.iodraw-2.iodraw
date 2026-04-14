@@ -28,6 +28,10 @@
         </mxCell>
         <mxCell id="vzZSM7LMn5RL2X08ZGJQ-7" value="环境状态/局部观测" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vzZSM7LMn5RL2X08ZGJQ-4" target="vzZSM7LMn5RL2X08ZGJQ-3">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="320" />
+              <mxPoint x="721" y="320" />
+            </Array>
             <mxPoint x="629.97" y="474.39" as="sourcePoint" />
             <mxPoint x="990" y="237" as="targetPoint" />
           </mxGeometry>
